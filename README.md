@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesbriyan2
+- 👋 Hi, I’m @Mukummudeh
 - 👀 I’m interested in both web and software development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on web development
